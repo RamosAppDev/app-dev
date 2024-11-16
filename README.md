@@ -1,5 +1,6 @@
 # Danmachi 
 ** DANMACHI ** is an anime series that consist around a young man who found himself with a goddess to help him become stronger as an adventurer to survive in daily dungeon raids to gain moneu for food and support his broke goddess.
+
 ![MV5BN2NkOTJiMDMtYzY0ZC00YjAxLWFlYjUtMTk2NjhmZTEzMmI4XkEyXkFqcGc@ _V1_](https://github.com/user-attachments/assets/4e8dccfb-0bf9-418b-b9be-861d324b5b2e)
 
 ## Zootopia 
